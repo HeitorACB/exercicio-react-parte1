@@ -1,0 +1,21 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+  align-items: center;
+}
+
+th {
+  background-color: #908e8e;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  align-items: center;
+}
